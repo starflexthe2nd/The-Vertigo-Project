@@ -1,0 +1,3 @@
+The idea is that you print the front plate face down on a smooth material, smooth pei or glass would work great, gives less for you to sand to make a smooth finish or not sand at all and just prime + paint for a smooth front face for a 3D print.
+
+The back face should be printed with the raised lip faced upwards, print direction for the face doesn't matter here as it is not a shown object.
