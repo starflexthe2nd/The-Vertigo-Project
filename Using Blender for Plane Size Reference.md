@@ -29,8 +29,7 @@ Once imported use Blender, delete sections of the plane that might be covering w
 texturing effects like ambient occlusion or various other things developers use to make effects in the game however they are not useful to us.
 measuring tools in order to measure your specific area.
 
-<<<<<<< HEAD:Using Blender for Plane Size Reference.MD
 NOTICE: This is not a way to pirate game assets, these models are practically unusable once exported again as the geometries are heavily morphed, this is using the default illustrated way to make a livery in the game with blender, please respect developers and please do not share content to others like this, remember you are still under the
 license agrement set out by the developers of the aircraft you are creating, and sharing the files of the aircrafts is still pirating and illegal.
 
-Last updated 1/05/24
+Last updated 2/05/24
