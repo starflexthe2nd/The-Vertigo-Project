@@ -25,3 +25,5 @@ Use the github instructions if you are unable to figure out how to install the p
 - Click on the lowest LOD cockpit model for the specific plane you want (Works for default or modded planes.)
 
 Once imported use Blender's measuring tools in order to measure your specific area.
+
+Last updated 1/05/24

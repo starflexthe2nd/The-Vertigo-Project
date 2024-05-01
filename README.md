@@ -13,8 +13,7 @@ GTN 750
 
 I will try to be as in-depth as possible, and try to provide a realistic end experiance if anyone wants to use any of the designs avaliable it will be as close to realistic size as I can get.
 
-This is a continual WIP and will be in work for the next couple of months upto 8 or so months (from 1/05/24) after then the project will either no longer be supported or will be left idle or at a far slower pace.
-Indepth tutorials will be made to assemble certian parts of the simulator home cockpit however documentation takes a lot of skill, knowledge, and time to write, therefore updates may be added without documentation
+Indepth tutorials will be made to assemble certian parts of the simulator home cockpit however documentation takes a lot of skill, knowledge, and time to write, therefore updates may be added without documentation before documentation is made.
 to begin with and will be added later.
 
 
