@@ -1,0 +1,8 @@
+Gearbox v3.f3z is NOT a print file it is a CAD file for your modification if you need.
+
+Gearbox V3 Faceplate should be printed, any print settings you generally use, in either black OR white filament depending on your use-case. Black would be good if you intend to put a product in the gaps where text exist.
+
+Gearbox V3 Back Plate should be printed with the extruded side facing upwards, use supports for the LED holders, although the LED Holders aren't required you can just hot glue the LEDs into the slots they are nice to have, any color for these although matching the faceplate will provide the best look.
+
+Gear Box V3 Threaded Gear Protector Stick needs to be printed twice in red filament color, bed adhesion can be a large issue, print with glue if required. the thread although modelled doesn't work the greatest as it's small, a nut can be threaded onto the end anyway and it will cut it's own thread, it just needs to be held in using an object like a clamp or plyers etc.
+
