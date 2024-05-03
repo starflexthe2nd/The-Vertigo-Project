@@ -1,0 +1,4 @@
+None of these need supports and use your preferred slicer settings. 
+
+The face plate ideally should be printed down on a clean glass surface, and sanded before painted, if you're using the text variant it is probably best to still print
+it face down but I have no idea how to print text on a 3d printer cleanly.-

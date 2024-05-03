@@ -1,0 +1,9 @@
+Print using your preferred slicer presets.
+
+Nothing should desperately need supports though the overhangs for the LEDS on the backplate will print better with supports.
+
+(Ideally black but any color should work filament wise) Print the backplate with the large extruded section in the air.
+
+(Black filament or White filament Spraypainted black for laser engraving) Print the faceplate down on a glass surface for best surface results, text may be better printed another way but I am unsure.
+
+(Red Filament) Print the threaded gear protectors on their side, the m3 modelled threads may not print this way but you can thread your own threads using an m3 nut and something to hold it with e.g. a clamp of some kind.
