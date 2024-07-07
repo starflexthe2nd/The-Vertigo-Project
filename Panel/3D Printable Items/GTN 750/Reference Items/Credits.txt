@@ -1,0 +1,3 @@
+Thank you so much to Lazar Paunovic for this model!
+Credits: https://grabcad.com/library/garmin-gtn-750-aircraft-navigation-1#!
+His design was modified, as it was completely joined together I removed all the buttons and shared the file as is.
